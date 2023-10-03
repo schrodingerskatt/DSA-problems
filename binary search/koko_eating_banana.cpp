@@ -46,5 +46,7 @@ public:
     if (sum <= h) high = mid - 1;
     else low = mid + 1;
     }
+    
     return low; // there will be a time when high pointer will move ahead of low and ans will be at low index.
+    }
 };
