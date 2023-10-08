@@ -2,6 +2,7 @@
 List of various topic wise problems done by me on various coding platforms :
 
  1. Greedy : https://leetcode.com/tag/greedy/
+ 2. Binary Search : https://leetcode.com/tag/binary-search/
 
 Some useful platforms for DSA practice :
 
