@@ -1,7 +1,7 @@
 # DSA-problems
-List of various topic wise problems done by me on various coding platforms 
+List of various topic wise problems done by me on various coding platforms :
 
-1. Greedy : https://leetcode.com/tag/greedy/
+ 1. Greedy : https://leetcode.com/tag/greedy/
 
 Some useful platforms for DSA practice :
 
