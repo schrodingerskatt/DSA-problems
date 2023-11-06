@@ -1,4 +1,4 @@
-# problem link : https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/
+# Problem Link : https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/
 # sliding window technique
 class Solution:
     def shortestBeautifulSubstring(self, s: str, k: int) -> str:
