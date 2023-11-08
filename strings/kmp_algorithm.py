@@ -40,8 +40,8 @@ def computeLPS(pat, M, lps):
                 i += 1
 
 if __name__ == '__main__':
-    txt = "ABABDABACDABABCABAB"
-    pat = "ABABCABAB"
+    txt = "leetscode"
+    pat = "leetcode"
     KMP(pat, txt)
 
 # time complexity : O(n+m)
