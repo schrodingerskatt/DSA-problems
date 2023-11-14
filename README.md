@@ -1,9 +1,7 @@
 # DSA-problems
 List of various topic wise problems done by me on various coding platforms :
-
- 1. Greedy : https://leetcode.com/tag/greedy/
- 2. Binary Search : https://leetcode.com/tag/binary-search/
-
+Topicwise : https://leetcode.com/problemset/all/
+companywise : https://github.com/xizhengszhang/Leetcode_company_frequency/tree/master
 Some useful platforms for DSA practice :
 
 1. Leetcode : https://leetcode.com/schrodingerkat/
