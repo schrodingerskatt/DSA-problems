@@ -2,8 +2,8 @@
 List of various topic wise problems done by me on various coding platforms :
 
 Topicwise : https://leetcode.com/problemset/all/
-
 companywise : https://github.com/xizhengszhang/Leetcode_company_frequency/tree/master
+
 Some useful platforms for DSA practice :
 
 1. Leetcode : https://leetcode.com/schrodingerkat/
