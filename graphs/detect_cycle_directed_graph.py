@@ -22,7 +22,6 @@ def DFS(adj, V):
 
 def addEdge(adj, u, v):
     adj[u].append(v)
-    adj[v].append(u)
 
 if __name__ == "__main__":
     V = 6
