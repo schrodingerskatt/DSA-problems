@@ -1,9 +1,11 @@
 # DSA-problems
 List of various topic wise problems done by me on various coding platforms :
 
-Topicwise : https://leetcode.com/problemset/all/ 
+Topic wise : https://leetcode.com/problemset/all/ 
 
-companywise : https://github.com/xizhengszhang/Leetcode_company_frequency/tree/master
+Company wise : 
+1. https://github.com/xizhengszhang/Leetcode_company_frequency/tree/master
+2. https://docs.google.com/spreadsheets/d/11wMGAem7c_12Yj2Gz9r0YSDkElLVqV2yWR0qEYD2P9U/edit#gid=0
 
 Some useful platforms for DSA practice :
 
